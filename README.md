@@ -18,3 +18,5 @@ Fes un commit i puja els canvis al repositori remot.
 
 ## Enllaç
 [Aquest és el repositori d'examen](https://github.com/AlbertSerra-0802/examen_practic/blob/main/README.md)
+
+"Gràcies per completar l'examen!
