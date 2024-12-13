@@ -6,6 +6,7 @@ Fes un commit i puja els canvis al repositori remot.
 
 ## Objectiu de l'examen
 
+"Aquest examen serveix per practicar amb Git i Markdown."
 ### Llista no ordenada
 
 - Git.
