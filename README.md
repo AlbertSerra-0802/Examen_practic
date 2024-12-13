@@ -14,3 +14,4 @@ Fes un commit i puja els canvis al repositori remot.
 - Markdown.
 
 ## "Logotip de examen”
+![Logit de l'examen](https://esliceu.cat/wp-content/uploads/2023/02/logo_llac%CC%A7n.png)
