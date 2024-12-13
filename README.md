@@ -6,7 +6,7 @@ Fes un commit i puja els canvis al repositori remot.
 
 ## Objectiu de l'examen
 
-## Llista no ordenada
+### Llista no ordenada
 
 - Git.
 - GitHub.
