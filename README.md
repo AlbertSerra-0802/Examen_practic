@@ -12,3 +12,5 @@ Fes un commit i puja els canvis al repositori remot.
 - Git.
 - GitHub.
 - Markdown.
+
+## "Logotip de examen”
